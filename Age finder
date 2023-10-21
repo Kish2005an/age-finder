@@ -1,0 +1,4 @@
+year=int(input("Enter your birth year")) 
+cryear=int(input("Enter the current year")) 
+age=cryear-year
+print("Your age:", age) 
